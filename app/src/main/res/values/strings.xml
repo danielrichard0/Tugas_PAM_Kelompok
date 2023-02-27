@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">PAM Acitivity Intent</string>
+    <string name="btn_login_title">Login</string>
+    <string name="label_username">nama pengguna</string>
+    <string name="label_password">kata sandi</string>
+    <string name="label_firstname">Nama Pertama</string>
+    <string name="label_lastname">Nama Terakhir</string>
+    <string name="label_confirmPassword">Konfirmasi Password</string>
+    <string name="forecast">Ramalan</string>
+    <string name="weather_forecast">Ramalan Cuaca</string>
+    <string name="Today">Hari ini</string>
+    <string name="day_forcast">Ramalan 5 Hari</string>
+    <string name="monday">Senin</string>
+    <string name="tuesday">Selasa</string>
+    <string name="wedneseday">Rabu</string>
+    <string name="thursday">Kamis</string>
+    <string name="clearr">Cuaca Cerah !</string>
+    <string name="btn_title_login" >Masuk</string>
+    <string name="btn_title_signup">Daftar</string>
+</resources>
